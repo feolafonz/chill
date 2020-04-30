@@ -1,3 +1,5 @@
+#Code by tabs-not-spaces repo name: Intune-App-Deploy
+
 #region Config
 $appName = "Sample-App"
 $logFile = "$env:temp\$appName`.log"
