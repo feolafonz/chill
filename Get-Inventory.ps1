@@ -40,7 +40,7 @@ Function Get-Inventory {
         )
 
 
-$exportLocation = "$env:HOMEDRIVE\scripts\"
+$exportLocation = "C:\Users\ffeol\gittest"
 
 # Test connection to each computer before getting the inventory info
 foreach ($computer in $Computers) {
