@@ -20,3 +20,8 @@ Get-WinEvent Microsoft-Windows-BitLocker/BitLocker* | fl *
 Get-Service | Where-Object {$_.Status -eq "Running"}
 
 get-eventlog -logname system | Sort-Object index -Descending| select-object -first 10
+
+write-error "test"
+
+cd C:\Users\ffeol\Desktop
+New-Item -ItemType SymbolicLink -Path "http://www.google.com" -Name "Google"
