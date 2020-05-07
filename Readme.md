@@ -37,7 +37,9 @@ _Keep practicing apprenticeship.  I believe in helping people. There are people 
 
 ## PC Setup
 
-CPU         AMD Ryzen 5 1600X Six-Core Processor
-GPU         Radeon (TM) RX 480 Graphics
-OS          Windows 10 (10.0) Enterprise Edition 64-bit
-Memory      16GB DDR4 
+| HW     | info                     |
+|--------|--------------------------|
+| CPU    | AMD Ryzen 5 1600x 6 Core |
+| GPU    | Radeon RX 480            |
+| OS     | Wind 10 Enterprise       |
+| Memory | 16GB DDR4                |
