@@ -24,7 +24,6 @@ _Keep practicing apprenticeship.  I believe in helping people. There are people 
 
 
 | MS Studio Code 	| GitHub        	|
-|----------------	|---------------	|
 | SQL Express    	| OneNote/Teams 	|
 | Powershell     	| Intune/Azure  	|
 | Automate RMM   	|               	|
