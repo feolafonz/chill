@@ -23,11 +23,11 @@ _Keep practicing apprenticeship.  I believe in helping people. There are people 
 ## Tech I Use
 
 
-| MS Studio Code   	| GitHub  	|
-| SQL Express  	|  OneNote/Teams 	|
-| Powershell  	|  InTune/Azure 	|
-| Automate RMM  	|   	|
-
+| MS Studio Code 	| GitHub        	|
+|----------------	|---------------	|
+| SQL Express    	| OneNote/Teams 	|
+| Powershell     	| Intune/Azure  	|
+| Automate RMM   	|               	|
 
 ## PC Setup
 
