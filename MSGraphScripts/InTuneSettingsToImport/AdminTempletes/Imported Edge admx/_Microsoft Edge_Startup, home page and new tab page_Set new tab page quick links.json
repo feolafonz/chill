@@ -1,0 +1,11 @@
+{
+    "definition@odata.bind":  "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('3a22f106-e220-4a5a-855c-0564376f8210')",
+    "enabled":  "true",
+    "presentationValues":  [
+                               {
+                                   "@odata.type":  "#microsoft.graph.groupPolicyPresentationValueText",
+                                   "value":  "[   {     \"url\": \"https://contoso.com\",      \"pinned\": true,      \"title\": \"Clock In\"   },    {     \"url\": \"https://fabrikam.com\",      \"title\": \"Fabrikam\"   } ]",
+                                   "presentation@odata.bind":  "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('3a22f106-e220-4a5a-855c-0564376f8210')/presentations('e0a6fd6a-bd70-4e1e-ba3d-090f4f3bb7b6')"
+                               }
+                           ]
+}

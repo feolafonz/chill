@@ -1,0 +1,16 @@
+{
+    "definition@odata.bind":  "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('94752281-f54c-4370-aff8-eaaee4296b7f')",
+    "enabled":  "true",
+    "presentationValues":  [
+                               {
+                                   "@odata.type":  "#microsoft.graph.groupPolicyPresentationValueList",
+                                   "values":  [
+                                                  {
+                                                      "name":  "ed60cc46-b77c-4d14-932e-9b246d3904e1",
+                                                      "value":  null
+                                                  }
+                                              ],
+                                   "presentation@odata.bind":  "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('94752281-f54c-4370-aff8-eaaee4296b7f')/presentations('5dcb84f0-fb31-47e8-b11e-22e093400a29')"
+                               }
+                           ]
+}

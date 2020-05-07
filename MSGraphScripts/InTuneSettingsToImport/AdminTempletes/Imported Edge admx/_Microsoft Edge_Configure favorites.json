@@ -1,0 +1,11 @@
+{
+    "definition@odata.bind":  "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('447149fe-25a7-4318-acde-f8dc69c6612e')",
+    "enabled":  "true",
+    "presentationValues":  [
+                               {
+                                   "@odata.type":  "#microsoft.graph.groupPolicyPresentationValueText",
+                                   "value":  "[   {     \"toplevel_name\": \"My managed favorites folder\"   },    {     \"url\": \"microsoft.com\",      \"name\": \"Microsoft\"   },    {     \"url\": \"bing.com\",      \"name\": \"Bing\"   },    {     \"name\": \"Microsoft Edge links\",      \"children\": [       {         \"url\": \"www.microsoftedgeinsider.com\",          \"name\": \"Microsoft Edge Insiders\"       },        {         \"url\": \"www.microsoft.com/windows/microsoft-edge\",          \"name\": \"Microsoft Edge\"       }     ]   } ]",
+                                   "presentation@odata.bind":  "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('447149fe-25a7-4318-acde-f8dc69c6612e')/presentations('15156669-9dc2-462a-a0ec-f79c7cfffda9')"
+                               }
+                           ]
+}

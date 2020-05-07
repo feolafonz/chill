@@ -1,0 +1,25 @@
+{
+    "@odata.type":  "#microsoft.graph.windows10CustomConfiguration",
+    "id":  "e33379e3-52c6-437d-b62e-30e954ee1e7f",
+    "lastModifiedDateTime":  "2020-05-05T21:23:27.8281038Z",
+    "roleScopeTagIds":  [
+                            "0"
+                        ],
+    "supportsScopeTags":  true,
+    "deviceManagementApplicabilityRuleOsEdition":  null,
+    "deviceManagementApplicabilityRuleOsVersion":  null,
+    "deviceManagementApplicabilityRuleDeviceMode":  null,
+    "createdDateTime":  "2020-05-05T21:23:27.8281038Z",
+    "description":  "Sets file associations for Outlook and Edge for all devices",
+    "displayName":  "Imported: Default File Associations - Outlook/Edge",
+    "version":  1,
+    "omaSettings":  [
+                        {
+                            "@odata.type":  "#microsoft.graph.omaSettingString",
+                            "displayName":  "DefaultAssociationsConfiguration",
+                            "description":  null,
+                            "omaUri":  "./Vendor/MSFT/Policy/Config/ApplicationDefaults/DefaultAssociationsConfiguration",
+                            "value":  "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPERlZmF1bHRBc3NvY2lhdGlvbnM+CiAgPEFzc29jaWF0aW9uIElkZW50aWZpZXI9Ii5odG0iIFByb2dJZD0iTVNFZGdlSFRNIiBBcHBsaWNhdGlvbk5hbWU9Ik1pY3Jvc29mdCBFZGdlIiAvPgogIDxBc3NvY2lhdGlvbiBJZGVudGlmaWVyPSIuaHRtbCIgUHJvZ0lkPSJNU0VkZ2VIVE0iIEFwcGxpY2F0aW9uTmFtZT0iTWljcm9zb2Z0IEVkZ2UiIC8+CiAgPEFzc29jaWF0aW9uIElkZW50aWZpZXI9Ii5wZGYiIFByb2dJZD0iTVNFZGdlUERGIiBBcHBsaWNhdGlvbk5hbWU9Ik1pY3Jvc29mdCBFZGdlIiAvPgogIDxBc3NvY2lhdGlvbiBJZGVudGlmaWVyPSIudXJsIiBQcm9nSWQ9IklFLkFzc29jRmlsZS5VUkwiIEFwcGxpY2F0aW9uTmFtZT0iTWljcm9zb2Z0IEVkZ2UiIC8+CiAgPEFzc29jaWF0aW9uIElkZW50aWZpZXI9Ii53ZWJzaXRlIiBQcm9nSWQ9IklFLkFzc29jRmlsZS5XRUJTSVRFIiBBcHBsaWNhdGlvbk5hbWU9Ik1pY3Jvc29mdCBFZGdlIiAvPgogIDxBc3NvY2lhdGlvbiBJZGVudGlmaWVyPSJodHRwIiBQcm9nSWQ9Ik1TRWRnZUhUTSIgQXBwbGljYXRpb25OYW1lPSJNaWNyb3NvZnQgRWRnZSIgLz4KICA8QXNzb2NpYXRpb24gSWRlbnRpZmllcj0iaHR0cHMiIFByb2dJZD0iTVNFZGdlSFRNIiBBcHBsaWNhdGlvbk5hbWU9Ik1pY3Jvc29mdCBFZGdlIiAvPgogIDxBc3NvY2lhdGlvbiBJZGVudGlmaWVyPSJtYWlsdG8iIFByb2dJZD0iT3V0bG9vay5VUkwubWFpbHRvLjE1IiBBcHBsaWNhdGlvbk5hbWU9Ik91dGxvb2siIC8+CiAgPEFzc29jaWF0aW9uIElkZW50aWZpZXI9Im1pY3Jvc29mdC1lZGdlIiBQcm9nSWQ9Ik1TRWRnZUhUTSIgQXBwbGljYXRpb25OYW1lPSJNaWNyb3NvZnQgRWRnZSIgLz4KICA8QXNzb2NpYXRpb24gSWRlbnRpZmllcj0ibWljcm9zb2Z0LWVkZ2UtaG9sb2dyYXBoaWMiIFByb2dJZD0iTVNFZGdlSFRNIiBBcHBsaWNhdGlvbk5hbWU9Ik1pY3Jvc29mdCBFZGdlIiAvPgogIDxBc3NvY2lhdGlvbiBJZGVudGlmaWVyPSJtcy14YmwtM2Q4YjkzMGYiIFByb2dJZD0iTVNFZGdlSFRNIiBBcHBsaWNhdGlvbk5hbWU9Ik1pY3Jvc29mdCBFZGdlIiAvPgo8L0RlZmF1bHRBc3NvY2lhdGlvbnM+"
+                        }
+                    ]
+}

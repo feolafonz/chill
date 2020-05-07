@@ -1,0 +1,39 @@
+{
+    "@odata.type":  "#microsoft.graph.sharedPCConfiguration",
+    "id":  "ed934fb5-1607-4b95-9665-a1ee4d322532",
+    "lastModifiedDateTime":  "2020-05-05T19:29:49.3774883Z",
+    "roleScopeTagIds":  [
+                            "0"
+                        ],
+    "supportsScopeTags":  true,
+    "deviceManagementApplicabilityRuleOsEdition":  null,
+    "deviceManagementApplicabilityRuleOsVersion":  null,
+    "deviceManagementApplicabilityRuleDeviceMode":  null,
+    "createdDateTime":  "2020-05-04T19:48:49.5885494Z",
+    "description":  null,
+    "displayName":  "Imported: Guest Account",
+    "version":  3,
+    "allowedAccounts":  "guest, domain",
+    "localStorage":  "notConfigured",
+    "allowLocalStorage":  false,
+    "setAccountManager":  "enabled",
+    "disableAccountManager":  false,
+    "setEduPolicies":  "notConfigured",
+    "disableEduPolicies":  false,
+    "setPowerPolicies":  "notConfigured",
+    "disablePowerPolicies":  false,
+    "signInOnResume":  "notConfigured",
+    "disableSignInOnResume":  false,
+    "enabled":  false,
+    "idleTimeBeforeSleepInSeconds":  null,
+    "kioskAppDisplayName":  null,
+    "kioskAppUserModelId":  null,
+    "maintenanceStartTime":  null,
+    "fastFirstSignIn":  "notConfigured",
+    "accountManagerPolicy":  {
+                                 "accountDeletionPolicy":  "diskSpaceThresholdOrInactiveThreshold",
+                                 "cacheAccountsAboveDiskFreePercentage":  100,
+                                 "inactiveThresholdDays":  1,
+                                 "removeAccountsBelowDiskFreePercentage":  0
+                             }
+}

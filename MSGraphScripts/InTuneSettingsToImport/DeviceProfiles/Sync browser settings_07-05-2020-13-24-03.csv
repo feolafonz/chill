@@ -1,0 +1,2 @@
+"@odata.type","createdDateTime","description","deviceManagementApplicabilityRuleDeviceMode","deviceManagementApplicabilityRuleOsEdition","deviceManagementApplicabilityRuleOsVersion","displayName","id","lastModifiedDateTime","omaSettings","roleScopeTagIds","supportsScopeTags","version"
+"#microsoft.graph.windows10CustomConfiguration","2020-05-07T15:36:02.9393197Z",,,,,"Sync browser settings","db1a1b95-8fe5-4e86-b689-2e96b69f6f9e","2020-05-07T15:45:01.9127937Z","System.Object[]","System.Object[]","True","2"

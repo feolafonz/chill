@@ -1,0 +1,16 @@
+{
+    "definition@odata.bind":  "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('8bdf9bb2-d25d-4387-b855-f3a2d7df215e')",
+    "enabled":  "true",
+    "presentationValues":  [
+                               {
+                                   "@odata.type":  "#microsoft.graph.groupPolicyPresentationValueList",
+                                   "values":  [
+                                                  {
+                                                      "name":  "Marketing - Documents",
+                                                      "value":  "tenantId=ed60cc46-b77c-4d14-932e-9b246d3904e1\u0026siteId={9675f5dc-3e5d-4fab-9ee0-f2a4ae3dd9c9}\u0026webId={842357f4-39d0-4242-a884-6001e1f2ef07}\u0026listId={270230C1-F93C-4046-AA17-40CC3F1575B9}\u0026webUrl=https://m365b709043.sharepoint.com/sites/Marketing\u0026version=1"
+                                                  }
+                                              ],
+                                   "presentation@odata.bind":  "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('8bdf9bb2-d25d-4387-b855-f3a2d7df215e')/presentations('a057778b-a30c-4a5b-b9b9-055fdccee4a6')"
+                               }
+                           ]
+}

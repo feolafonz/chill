@@ -1,0 +1,4 @@
+{
+    "definition@odata.bind":  "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('8a1ce57f-3574-4b5a-a084-1cc6ca5c99ee')",
+    "enabled":  "true"
+}
