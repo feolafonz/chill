@@ -1,5 +1,5 @@
 # Powershell and Scripts you should ignore
-> Just practicing GitHub and powershell scripts. Its a mess here. 
+> Just practicing GitHub and powershell scripts. Its a mess here. Making a effor to be clean
 
 
 You will see my saved powershell scripts from Sysadmin work. Most I did not write.  Purpose of repo is to collect scripts for future use. 
@@ -14,56 +14,22 @@ Mostly Microsoft guy in Office365/Intune/AD but supportor of opensource.
 write-error "The task was failed successfully!"
 ```
 
-## Usage example
+## Exprience
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Desktop support > Software Project Implentation > IT Director > Sysadmin for an MSP
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+_Keep practicing apprenticeship.  I believe in helping people. There are people in my life that gave to me, and I beleive that should be forwarded. _
 
-## Development setup
+## Tech I Use
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+MS Studio Code      GitHub
+SQL Express         OneNote/Teams
+Powershell          InTune/Azure
+Automate RMM                
 
-```sh
-make install
-npm test
-```
+## PC Setup
 
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+CPU         AMD Ryzen 5 1600X Six-Core Processor
+GPU         Radeon (TM) RX 480 Graphics
+OS          Windows 10 (10.0) Enterprise Edition 64-bit
+Memory      16GB DDR4 
