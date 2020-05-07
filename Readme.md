@@ -1,5 +1,5 @@
 # Powershell and Scripts you should ignore
-> Just practicing GitHub and powershell scripts. Its a mess here. Making a effort to be clean
+> Just practicing GitHub and powershell scripts. Its a mess here. Making an effort to be clean
 
 
 You will see my saved powershell scripts from Sysadmin work. Most I did not write.  Purpose of repo is to collect scripts for future use. 
@@ -22,10 +22,12 @@ _Keep practicing apprenticeship.  I believe in helping people. There are people 
 
 ## Tech I Use
 
-MS Studio Code      GitHub
-SQL Express         OneNote/Teams
-Powershell          InTune/Azure
-Automate RMM                
+
+| MS Studio Code   	| GitHub  	|
+| SQL Express  	|  OneNote/Teams 	|
+| Powershell  	|  InTune/Azure 	|
+| Automate RMM  	|   	|
+
 
 ## PC Setup
 
