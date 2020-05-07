@@ -2,7 +2,7 @@
 > Just practicing GitHub and powershell scripts. Its a mess here. Making an effort to be clean
 
 
-You will see my saved powershell scripts from Sysadmin work. Most I did not write.  Purpose of repo is to collect scripts for future use. 
+You will see my saved powershell scripts from Sysadmin work. Some I wrote, some are copyed, some are just updates.  Purpose of repo is to collect scripts for future use. I claim zero credit.  Trying my best to learn. 
 
 ![](header.png)
 
