@@ -1,5 +1,5 @@
 # Powershell and Scripts you should ignore
-> Just practicing GitHub and powershell scripts. Its a mess here. Making a effor to be clean
+> Just practicing GitHub and powershell scripts. Its a mess here. Making a effort to be clean
 
 
 You will see my saved powershell scripts from Sysadmin work. Most I did not write.  Purpose of repo is to collect scripts for future use. 
